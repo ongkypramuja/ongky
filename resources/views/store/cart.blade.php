@@ -128,7 +128,7 @@ label.error {
                             Cash On Delivery
                         </label>
                         <div class="caption">
-                            <p>produk akakn dikirim 24 jam di tempat anda</p>
+                            <p>produk akan dikirim 24 jam di tempat anda</p>
                         </div>
                     </div>
                 </div>
